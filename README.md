@@ -1,11 +1,11 @@
 # Project.Beta.2
 This Is My Second Project As Data Analyst.
 
-The Dataset I Use : [US. Shooting 
+The Dataset I Use : "US Police Shooting - Copy.xlsx"
 
 This Repository Will Hold My SQL Queries, Datasets, Etc.
 
-In This Project, I Take Some Datasets From Kaggle,Clean It, And Visualize It
+In This Project, I Take Some Datasets From Kaggle, Clean It, And Visualize It
 
 I Encounter Many Problem, Such As:
 
@@ -38,4 +38,4 @@ But Still, I'm Not Satisfied . I'm Thinking To Learn Machine Learning, Correlati
 
 I Also Need To Learn Getting My Own Data By Scraping Rather Than Take Someone Else Datasets.
 
-Currently My Goal Is To Learn: Machine Learning,Scraping Data, Advanced SQl, Advanced Tableau. 
+Currently My Goal Is To Learn: Machine Learning,Scraping Data, Advanced SQL, Advanced Tableau. 

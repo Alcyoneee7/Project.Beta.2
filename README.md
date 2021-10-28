@@ -39,3 +39,5 @@ But Still, I'm Not Satisfied . I'm Thinking To Learn Machine Learning, Correlati
 I Also Need To Learn Getting My Own Data By Scraping Rather Than Take Someone Else Datasets.
 
 Currently My Goal Is To Learn: Machine Learning,Scraping Data, Advanced SQL, Advanced Tableau. 
+
+Probably 1 More Project , After That Into That Skill.
